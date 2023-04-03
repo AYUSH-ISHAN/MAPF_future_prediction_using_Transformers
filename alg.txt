@@ -1,0 +1,14 @@
+agent: 128, world: 40, obstacle: 0.0 
+ EL: 83.8, MR: 128.0, CO: 0.0,SR:100.0, EL_STD: 28.58, MR_STD: 0.0, CO_STD: 0.01
+agent: 128, world: 30, obstacle: 0 
+ EL: 66.88, MR: 128.0, CO: 0.04,SR:100.0, EL_STD: 12.72, MR_STD: 0.0, CO_STD: 0.02
+agent: 128, world: 30, obstacle: 0.15 
+ EL: 101.86, MR: 127.84, CO: 0.35,SR:84.0, EL_STD: 24.57, MR_STD: 0.37, CO_STD: 0.22
+agent: 128, world: 30, obstacle: 0.3 
+ EL: nan, MR: 116.12, CO: 5.47,SR:0.0, EL_STD: nan, MR_STD: 12.9, CO_STD: 4.12
+agent: 128, world: 50, obstacle: 0.3 
+ EL: 182.0, MR: 125.88, CO: 1.78,SR:64.0, EL_STD: 35.62, MR_STD: 6.11, CO_STD: 2.38
+agent: 128, world: 50, obstacle: 0.15 
+ EL: 103.17, MR: 127.96, CO: 0.05,SR:96.0, EL_STD: 18.21, MR_STD: 0.2, CO_STD: 0.04
+agent: 128, world: 50, obstacle: 0 
+ EL: 91.88, MR: 128.0, CO: 0.0,SR:100.0, EL_STD: 11.78, MR_STD: 0.0, CO_STD: 0.0
